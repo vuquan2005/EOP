@@ -1,7 +1,7 @@
 # Tools-EOP Chrome Extension
 
 ## Giới thiệu
-**Tools-EOP** là một tiện ích mở rộng (extension) cho trình duyệt Google Chrome hoặc các trình duyệt khác, giúp người bạn có thể hoàn thành nhanh các bài tập trên EOP.
+**Tools-EOP** là một tiện ích mở rộng (extension) cho trình duyệt Google Chrome hoặc các trình duyệt khác, giúp bạn có thể hoàn thành nhanh các bài tập trên EOP.
 
 Một số tính năng chính của extension:
 - Tự động điền toàn bộ các đáp án bằng ký tự 'a'.
