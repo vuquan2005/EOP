@@ -24,3 +24,13 @@ Một số tính năng chính của extension:
 4. Nhấn vào nút **Tải phần mở rộng đã giải nén**
 5. Chọn thư mục mà bạn đã giải nén trước đó.
 6. Extension sẽ tự động được cài đặt và hiển thị trên thanh công cụ của trình duyệt.
+
+## Tuyên bố miễn trừ trách nhiệm
+Dự án **Tools-EOP** là một tiện ích mã nguồn mở và được phát triển để phục vụ mục đích cá nhân (cụ thể là học cách tạo một extension cho trình duyệt). Tuy nhiên, tôi không chịu trách nhiệm về bất kỳ thiệt hại hoặc sự cố nào phát sinh từ việc sử dụng công cụ này, ví dụ như:
+
+- Bị phát hiện bởi hệ thống EOP, nhà trường, giảng viên,...
+- Bị 0đ.
+- Bị trượt môn.
+- Bị buộc thôi học.
+
+Khi bạn sử dụng tiện ích này, bạn tự chịu trách nhiệm về việc sử dụng và cài đặt công cụ.
