@@ -25,7 +25,7 @@
   "content_scripts": [
     {
       "matches": ["https://eop.edu.vn/study/task/*"],
-      "js": ["scripts/eop.js"]
+      "js": ["scripts/eop.js", "scripts/lib/tesseract.min.js"]
     }
   ]
 }
