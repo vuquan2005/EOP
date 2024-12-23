@@ -7,6 +7,7 @@ Một số tính năng chính của extension:
 - Tự động điền toàn bộ các đáp án bằng ký tự 'a'.
 - Tự động nhấn nút hoàn thành.
 - Tự động nhấn nút xem đáp án sau 30s.
+- Tự động điền đáp án vào ô
 
 ## Cách cài đặt
 
