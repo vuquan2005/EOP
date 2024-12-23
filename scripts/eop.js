@@ -78,7 +78,7 @@ async function run() {
             }
         }, 1000);
     }
-    // Wait
+    // Wait 31s for the answers 
     await delay(31000);
     // Create an array containing images from input elements
     const answersImg = getAnswer();
