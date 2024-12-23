@@ -4,6 +4,7 @@
 **Tools-EOP** là một tiện ích mở rộng (extension) cho trình duyệt Google Chrome hoặc các trình duyệt khác, giúp bạn có thể hoàn thành nhanh các bài tập trên EOP.
 
 Một số tính năng chính của extension:
+- Mọi thao tác đều trên giao diện người dùng, không hề can thiệp đến mạng và máy chủ EOP.
 - Tự động điền toàn bộ các đáp án bằng ký tự 'a'.
 - Tự động nhấn nút hoàn thành.
 - Tự động nhấn nút xem đáp án sau 30s.
